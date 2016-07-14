@@ -1,0 +1,23 @@
+img{
+	max-width: 50px;
+}
+footer .navbar {
+	background: transparent;
+}
+.navbar{
+	/*/background: transparent;/*/
+	border-bottom: none;
+}
+.active{
+	background-color: transparent;
+	border-bottom: 5px;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+   
+}
+#text{
+	text-align: center;
+}
